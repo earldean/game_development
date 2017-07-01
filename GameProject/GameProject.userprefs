@@ -1,0 +1,31 @@
+﻿<Properties StartupItem="GameProject/GameProject.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameProject/Burger.cs">
+    <Files>
+      <File FileName="GameProject/Game1.cs" Line="217" Column="33" />
+      <File FileName="GameProject/Burger.cs" Line="177" Column="5" />
+      <File FileName="GameProject/Projectile.cs" Line="94" Column="5" />
+      <File FileName="GameProject/ProjectileType.cs" Line="1" Column="1" />
+      <File FileName="GameProject/GameConstants.cs" Line="1" Column="1" />
+      <File FileName="GameProject/TeddyBear.cs" Line="189" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameProject" expanded="True">
+            <Node name="GameProject" expanded="True">
+              <Node name="Content" expanded="True">
+                <Node name="Graphics" expanded="True" />
+              </Node>
+              <Node name="Burger.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

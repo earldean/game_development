@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/earldean/Documents/GameDevelopment/GameProject/PipelineProject/../GameProject/Content/graphics/burger.png</File>
+    <File>/Users/earldean/Documents/GameDevelopment/GameProject/PipelineProject/Content/Graphics/explosion.png</File>
+    <File>/Users/earldean/Documents/GameDevelopment/GameProject/PipelineProject/Content/Graphics/frenchfries.png</File>
+    <File>/Users/earldean/Documents/GameDevelopment/GameProject/PipelineProject/Content/Graphics/teddybear.png</File>
+    <File>/Users/earldean/Documents/GameDevelopment/GameProject/PipelineProject/Content/Graphics/teddybearprojectile.png</File>
+    <File>/Users/earldean/Documents/GameDevelopment/GameProject/PipelineProject/Content/Graphics/burger.png</File>
+  </SourceFiles>
+</SourceFileCollection>

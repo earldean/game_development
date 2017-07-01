@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{8A101FCB-2ACE-432B-9615-A355636BE7FF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgrammingAssignment5/Properties/TeddyBear.cs">
+    <Files>
+      <File FileName="ProgrammingAssignment5/Game1.cs" Line="18" Column="3" />
+      <File FileName="ProgrammingAssignment5/Properties/Mine.cs" Line="11" Column="6" />
+      <File FileName="ProgrammingAssignment5/Properties/TeddyBear.cs" Line="11" Column="17" />
+      <File FileName="ProgrammingAssignment5/GameConstants.cs" Line="14" Column="63" />
+      <File FileName="ProgrammingAssignment5/Properties/Explosion.cs" Line="45" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProgrammingAssignment5 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
